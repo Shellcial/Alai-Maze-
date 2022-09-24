@@ -11,8 +11,9 @@ Unity Version: 2021.3.1f1
 visual studio community 2019
 
 
-### Version 1.0.1
+## Version Control
+### 1.0.1
 * fixed UI position shifted in different screen resolution
 
-### Version 1.0.0
+### 1.0.0
 * initial release and pulish on [itch.io](https://shellcial.itch.io/alai-maze)
