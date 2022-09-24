@@ -1,10 +1,7 @@
 # Alai-Maze
-
 This is a game imitating "Tower of the Sorcerer" (Japanese: 魔法の塔, Chinese: 魔塔)
-
-You can download the whole Unity project (without the audio since they are licensed)
-
-You can also download the game for window or mac platform in the Release 
+* You can download the game for window or mac platform in the Release 
+* You can also download the whole Unity project (without the audio since they are licensed)
 
 ## Development Environment
 Unity Version: 2021.3.1f1
