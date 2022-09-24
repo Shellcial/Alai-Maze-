@@ -1,0 +1,1 @@
+﻿{"inkVersion":20,"root":[[{"->":"main"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"main":[{"#":"Player"},"^（下層好像傳來打鬥聲。）","\n",{"#":"End"},{"#":"SwordFightingSound"},"^（靜靜上前看看情況吧。）","\n","end",{"#f":1}],"global decl":["ev","str","^SwordFightingSound","/str",{"VAR=":"specialEvent"},"/ev","end",null],"#f":1}],"listDefs":{}}

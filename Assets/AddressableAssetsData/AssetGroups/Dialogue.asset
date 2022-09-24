@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  m_GroupName: Dialogue
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f8937a1c712e0eb439f7a16e9b67ccf5
+  m_SerializeEntries:
+  - m_GUID: 8ff6d8b00d3852e459c326ad31f7109c
+    m_Address: 13th_Floor_Escape_Exit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82e692ff48694654e98964b62a856c04
+    m_Address: 13th_Floor_Lose
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8863f0c03a69d8540b03ff0cf5116ba6
+    m_Address: 13th_Floor_Win
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0b6bccfda559a04eaedee42a956529b
+    m_Address: 3rd_Floor_MP_Usage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 476decf8c649bd944aa4919fb0df47d3
+    m_Address: 13th_Floor_Enter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d332299399e33764db501d163c4dfe5d
+    m_Address: 13th_Floor_Normal_Lose
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 738563503528cb74d9146bf68d4b56a3
+    m_Address: 13th_Floor_Escape_Exit_Vampire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99d113c381bd7534a88a3ac7981e6f94
+    m_Address: 10th_Floor_After_Boss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c99047e922581bc43b64c9a033baebde
+    m_Address: 14th_Floor_Gem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e554a788b200ea942b6ed047ea6026b9
+    m_Address: 14th_Floor_Pure_Gem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a52195091110c54fba6bee866bb175f
+    m_Address: 20th_Floor_Ending
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96aa407c575a68240aa1b0b3b681e9dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2057ca1eef762974aa071082c5bc3f6d, type: 2}
+    - {fileID: 11400000, guid: 6445e5bcd17a62f4ebe02bb365d667d6, type: 2}

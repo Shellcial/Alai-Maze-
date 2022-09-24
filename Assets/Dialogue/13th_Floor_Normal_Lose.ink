@@ -1,0 +1,6 @@
+#Player
+可惡……
+ #End #NormalLose
+這魔物……太強了……
+
+->END

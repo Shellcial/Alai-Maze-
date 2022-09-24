@@ -1,0 +1,173 @@
+{
+	"monsters":
+	[
+	{
+	"tileName": "slime_green",
+	"displayName": "綠色史萊姆",
+	"hp": 50,
+	"atk": 15,
+	"def": 5,
+	"mp": 1
+	},
+	{
+	"tileName": "slime_red",
+	"displayName": "紅色史萊姆",
+	"hp": 70,
+	"atk": 15,
+	"def": 5,
+	"mp": 2
+	},
+	{
+	"tileName": "slime_black",
+	"displayName": "黑色史萊姆",
+	"hp": 800,
+	"atk": 30,
+	"def": 10,
+	"mp": 6
+	},	
+	{
+	"tileName": "bat_small",
+	"displayName": "小蝙蝠",
+	"hp": 55,
+	"atk": 17,
+	"def": 10,
+	"mp": 2
+	},
+	{
+	"tileName": "bat_big",
+	"displayName": "大蝙蝠",
+	"hp": 125,
+	"atk": 55,
+	"def": 20,
+	"mp": 8
+	},
+	{
+	"tileName": "bat_red",
+	"displayName": "紅蝙蝠",
+	"hp": 305,
+	"atk": 145,
+	"def": 60,
+	"mp": 15
+	},
+	{
+	"tileName": "goblin",
+	"displayName": "哥布林",
+	"hp": 105,
+	"atk": 28,
+	"def": 15,
+	"mp": 4
+	},
+	{
+	"tileName": "goblin_blue",
+	"displayName": "高級哥布林",
+	"hp": 258,
+	"atk": 68,
+	"def": 25,
+	"mp": 8
+	},
+	{
+	"tileName": "goblin_soldier",
+	"displayName": "哥布林戰士",
+	"hp": 450,
+	"atk": 158,
+	"def": 62,
+	"mp": 18
+	},
+	{
+	"tileName": "goblin_soldier_blue",
+	"displayName": "高級哥布林戰士",
+	"hp": 553,
+	"atk": 185,
+	"def": 85,
+	"mp": 22
+	},
+	{
+	"tileName": "goblin_sorcerer",
+	"displayName": "哥布林法師",
+	"hp": 50,
+	"atk": 30,
+	"def": 10,
+	"mp": 4
+	},
+	{
+	"tileName": "goblin_sorcerer_yellow",
+	"displayName": "高等哥布林法師",
+	"hp": 75,
+	"atk": 50,
+	"def": 15,
+	"mp": 6
+	},
+	{
+	"tileName": "skeleton",
+	"displayName": "骷髏人",
+	"hp": 150,
+	"atk": 40,
+	"def": 20,
+	"mp": 5
+	},
+	{
+	"tileName": "skeleton_soldier",
+	"displayName": "骷髏士兵",
+	"hp": 250,
+	"atk": 50,
+	"def": 35,
+	"mp": 8
+	},
+	{
+	"tileName": "skeleton_knight",
+	"displayName": "骷髏騎士",
+	"hp": 350,
+	"atk": 60,
+	"def": 60,
+	"mp": 10
+	},
+	{
+	"tileName": "ork",
+	"displayName": "巨魔",
+	"hp": 770,
+	"atk": 210,
+	"def": 105,
+	"mp": 25
+	},
+	{
+	"tileName": "ork_red",
+	"displayName": "高級巨魔",
+	"hp": 990,
+	"atk": 230,
+	"def": 115,
+	"mp": 30
+	},
+	{
+	"tileName": "rock_defender",
+	"displayName": "石頭守衛者",
+	"hp": 3000,
+	"atk": 70,
+	"def": 90,
+	"mp": 12
+	},
+	{
+	"tileName": "rock_fighter",
+	"displayName": "石頭戰士",
+	"hp": 2000,
+	"atk": 165,
+	"def": 80,
+	"mp": 20
+	},
+	{
+	"tileName": "vampire_knight_front",
+	"displayName": "骷髏騎士？",
+	"hp": 444,
+	"atk": 80,
+	"def": 80,
+	"mp": 50
+	},
+	{
+	"tileName": "vampire_princess_front_whole_normal",
+	"displayName": "小女孩？",
+	"hp": 4400,
+	"atk": 300,
+	"def": 50,
+	"mp": 5000
+	}
+	]
+}

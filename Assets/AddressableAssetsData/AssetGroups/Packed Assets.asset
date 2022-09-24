@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Packed Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Packed Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6592d12e7903f884f9819acf2fed4135
+  m_SerializeEntries:
+  - m_GUID: 5aed26a666a1b744abafda89caf0409c
+    m_Address: MonsterDataJson
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5b4ba08bfe7e97458bc3a11c96da8b4
+    m_Address: AllSpriteAtlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 96aa407c575a68240aa1b0b3b681e9dd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 619154187a940554c8902fc3ad6ab569, type: 2}
+    - {fileID: 11400000, guid: a4e58d85d7d83604982e2db52fcebb97, type: 2}
