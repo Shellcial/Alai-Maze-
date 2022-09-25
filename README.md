@@ -4,8 +4,8 @@ This is a game imitating "Tower of the Sorcerer" (Japanese: 魔法の塔, Chines
 * You can also download the whole Unity project (without the audio since they are licensed)
 
 ## Development Environment
-Unity Version: 2021.3.1f1
-visual studio community 2019
+* Unity Version: 2021.3.1f1
+* Visual Studio 2019
 
 
 ## Version Control
