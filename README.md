@@ -8,7 +8,7 @@ This is a game imitating "Tower of the Sorcerer" (Japanese: 魔法の塔, Chines
 * Visual Studio 2019
 
 
-## Version Control
+## Changelog
 ### 1.0.1
 * fixed UI position shifted in different screen resolution
 
